@@ -16,7 +16,11 @@ In class activity:
 1. The class is just like a toolbox and members are tools in the box. The tools are put together in the same box for the ease of use. Using Method is like taking a tool to do something, and member variables are those component being frequently used in many methods.
 2. Maybe the balls are changed by adding RGB values when bouncing instead of randomize RGB so the total brightness is increased each time bouncing.
 
-
+### W4
+1. Table# 8 (1~10): Line 5 declares a member value in float type, which representing the distance moved by the object each unit time.
+                    Line 22 is calculation on component called translation in float type, which is the position calculated each frame by current position times _movespeed times time passed.
+                    Line 25 is calling method named translation, which might be updates on calculated position to the object each frame to simulate animation of translation. The translation method have 3 parameters and only the 3rd parameter is filled by translation component, so it might means the third parameter represents verticle translation.
+   
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
