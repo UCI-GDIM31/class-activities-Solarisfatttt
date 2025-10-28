@@ -20,7 +20,12 @@ In class activity:
 1. Table# 8 (1~10): Line 5 declares a member value in float type, which representing the distance moved by the object each unit time.
                     Line 22 is calculation on component called translation in float type, which is the position calculated each frame by current position times _movespeed times time passed.
                     Line 25 is calling method named translation, which might be updates on calculated position to the object each frame to simulate animation of translation. The translation method have 3 parameters and only the 3rd parameter is filled by translation component, so it might means the third parameter represents verticle translation.
-   
+
+
+### W5
+1. Q: Can we use a single x or y axis to move in a diagonal line or move in a curve?
+   A: If only the object is restricted in one axis, then a movement or rotation on gameboard might achieve this function. 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
