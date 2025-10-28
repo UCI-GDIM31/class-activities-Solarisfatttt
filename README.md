@@ -28,7 +28,8 @@ In class activity:
 2. To make the deer move toward a target, we have to get the location of the target. Also, we need let speed being adjustable.
      So the member variables are: Transform Target, float _moveSpeed.
    The method being used is GetComponent to get a Navmesh component, then use NavMeshObjName.getDestination(Target.position) to move the deer into the location.
-   The method is called in start and update all the time so the deer can keep track with the target.
+   The method is called in start.
+   If I am going to make target the cat, I might want to use the same method in update() so the deer can keep track with the target.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
