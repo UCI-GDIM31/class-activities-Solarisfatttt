@@ -30,6 +30,10 @@ In class activity:
    The method being used is GetComponent to get a Navmesh component, then use NavMeshObjName.getDestination(Target.position) to move the deer into the location.
    The method is called in start.
    If I am going to make target the cat, I might want to use the same method in update() so the deer can keep track with the target.
+
+### W6
+[Category Assignment, Table 9](https://docs.google.com/document/d/1I9v9DLgH_h1Npt-SvcE6Rrcdn8rclMwmf5H-zmU4f14/edit?usp=sharing)
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
