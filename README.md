@@ -34,6 +34,8 @@ In class activity:
 ### W6
 [Category Assignment, Table 9](https://docs.google.com/document/d/1I9v9DLgH_h1Npt-SvcE6Rrcdn8rclMwmf5H-zmU4f14/edit?usp=sharing)
 
+### W7
+[W7_Activity_Table8](https://docs.google.com/document/d/1Ijdci9okeeCyicXsW5tH1rMqU_g65RI7T5syzvF4jAY/edit?tab=t.0)
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
