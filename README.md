@@ -36,8 +36,11 @@ In class activity:
 
 ### W7
 [W7_Activity_Table8](https://docs.google.com/document/d/1Ijdci9okeeCyicXsW5tH1rMqU_g65RI7T5syzvF4jAY/edit?tab=t.0)
+Things went wrong in Q2 is that the Muskrat is using world axis, so it will move forward in world direction, which is not changed by rotation of itself. If using transform.translate it will use axis of the object which fixed the problem.
 
-The wrong in Q2 is that the Muskrat is using world axis, so it will move forward in world direction, which is not changed by rotation of itself. If using transform.translate it will use axis of the object which fixed the problem.
+### W8
+[GDIM 31 - Week8](https://docs.google.com/document/d/1bH_UfpS7NLyP5RQ2-J-6koZJK2ffy9PmBksPuVndz5o/edit?usp=sharing)
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
